@@ -25,7 +25,7 @@ for 64 bits:
 The content of output_example.fas should be identical to the file ./example/result.fas
 
 5. Computing the periodic score
-<pre>perl periodic_score.pl ./example/results.fas > score_exemple.txt<pre>
+<pre>perl periodic_score.pl ./example/results.fas > score_exemple.txt</pre>
 
 The content of score_example.txt should be identical to the file ./example/score.txt
 
